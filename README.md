@@ -1,7 +1,7 @@
 # Video Triage and Assessment (ViTA)
 ## A Proposal for Video Triage and Management of Large Numbers of Patients with CoVID-19 symptoms
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ibxrng5pJGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/Ibxrng5pJGg/0.jpg)](https://www.youtube.com/watch?v=Ibxrng5pJGg)
 
 Given the exponential increase in reported CoVid-19 cases, we can expect large numbers of patients to present to Emergency Departments with viral symptoms. The vast majority of these will be benign self-limiting conditions, however sheer numbers can quickly overwhelm even the most cautious of PPE planning in our department. Given the international shortage of N95 respirators, we can expect that community physicians will be unable to safely see and screen most of these patients.
 
