@@ -1,6 +1,8 @@
 # Video Triage and Assessment (ViTA)
 ## A Proposal for Video Triage and Management of Large Numbers of Patients with CoVID-19 symptoms
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ibxrng5pJGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Given the exponential increase in reported CoVid-19 cases, we can expect large numbers of patients to present to Emergency Departments with viral symptoms. The vast majority of these will be benign self-limiting conditions, however sheer numbers can quickly overwhelm even the most cautious of PPE planning in our department. Given the international shortage of N95 respirators, we can expect that community physicians will be unable to safely see and screen most of these patients.
 
 Proposed is the creation of a rapid assessment zone where assessment by both nursing and physicians is done through video interface. Pre-printed order sets, on-site portable chest x-ray, and point-of-care blood tests will help identify the minority of patients needing more than gentle reassurance and comfort care. This model can serve as an example and be replicated in other healthcare settings, and can be placed in community settings as some authorities did in the previous SARS and pandemic flu clinics.
@@ -27,16 +29,16 @@ We envision converting space in a waiting room and repurposing it:
     
 4.  Once initial assessment is completed, patients are placed in a number of care pathways.
 
-![alt text](vitaz0.jpg)
+![Care Pathways](vitaz0.jpg)
 
-![alt text](vitaz1.jpg)
+![Entry Zone Schematic](vitaz1.jpg)
 
 Once patients needing hospitalization are identified, they are placed in an isolation area of the ED.  Supportive care is provided, and a protected space is ready for resuscitation.  All providers in this area will be wearing full PPE to guard against aerosolization produced during high risk procedures (intubation).
 
-![alt text](vitaz2.jpg)
+![Isolation Zone Schematic](vitaz2.jpg)
 
 ## Technical Considerations
 
 A number of companies offer commercial telemedicine solutions. Obtaining delivery and evaluating these for purchase will take weeks. For the moment we can immediately use commercially available tablets such as the iPad Pro. Using a modified stethoscope connected to a microphone, we can capture heart and lung sounds and physically examine the patient without exposing healthcare workers.
 
-![alt text](vitaz3.jpg)
+![Video Assessment Mockup](vitaz3.jpg)
