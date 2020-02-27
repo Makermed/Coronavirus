@@ -27,16 +27,16 @@ We envision converting space in a waiting room and repurposing it:
     
 4.  Once initial assessment is completed, patients are placed in a number of care pathways.
 
-![alt text](https://github.com/makermed/Coronavirus/vitaz0.jpg)
+![alt text](vitaz0.jpg)
 
-![alt text](https://github.com/makermed/Coronavirus/vitaz1.jpg)
+![alt text](vitaz1.jpg)
 
 Once patients needing hospitalization are identified, they are placed in an isolation area of the ED.  Supportive care is provided, and a protected space is ready for resuscitation.  All providers in this area will be wearing full PPE to guard against aerosolization produced during high risk procedures (intubation).
 
-![alt text](https://github.com/makermed/Coronavirus/vitaz2.jpg)
+![alt text](vitaz2.jpg)
 
 ## Technical Considerations
 
 A number of companies offer commercial telemedicine solutions. Obtaining delivery and evaluating these for purchase will take weeks. For the moment we can immediately use commercially available tablets such as the iPad Pro. Using a modified stethoscope connected to a microphone, we can capture heart and lung sounds and physically examine the patient without exposing healthcare workers.
 
-![alt text](https://github.com/makermed/Coronavirus/vitaz3.jpg)
+![alt text](vitaz3.jpg)
